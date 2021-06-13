@@ -7,9 +7,9 @@ This repo has been built for me to show the code I have produced in the #100Days
 ## Structure
 |DAY             |ASCII                  |
 |--------|-------------------------------|
-|Day 1   |`Working with variables`|
-|Day 2   |`Data types and strings`|
-|Day 3   |`Flow control and logical operators`|
-|Day 4   |`Randomisation and lists`
-|Day 5   |`For loops`
-|Day 6   |`Functions and Karel`
+|Day 1   |Working with variables|
+|Day 2   |Data types and strings|
+|Day 3   |Flow control and logical operators|
+|Day 4   |Randomisation and lists
+|Day 5   |For loops
+|Day 6   |Functions and Karel
