@@ -7,13 +7,10 @@ word_list = ["aardvark", "baboon", "camel"]
 import random
 
 chosen_word = random.choice(word_list)
-guess = input("Guess a random letter: ")
+guess = input("Guess a random letter: ").lower()
 
-counter = 0
-for letter in range(len(chosen_word)):
-    if guess == chosen_word[counter]:
+for letter in chosen_word:
+    if letter == guess:
         print("Right")
     else:
         print("Wrong")
-    counter += 1
-
