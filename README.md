@@ -5,7 +5,7 @@ This repo has been built for me to show the code I have produced in the #100Days
 > If one is to learn, one must make mistakes and one must be able to make those mistakes with humility and an eagerness to continue to fail; hence success can be achieved. 
 
 ## Structure
-|DAY             |ASCII                  |
+|DAY     |ASCII                  |
 |--------|-------------------------------|
 |Day 1   |Working with variables|
 |Day 2   |Data types and strings|
